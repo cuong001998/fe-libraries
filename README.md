@@ -1,8 +1,6 @@
-# chat
-chat nodejs
-# Awesome-Chat-Template-Frontend
+# node js
 
-Ứng dụng này có sử dụng những thư viện phía client với chính xác các phiên bản như sau:
+library version : 
 
 - bootstrap: **^3.3.7**
 - font-awesome **^4.7.0**
